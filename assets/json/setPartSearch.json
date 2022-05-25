@@ -1,0 +1,146 @@
+ [
+ {
+        "id": 663,
+        "setId": 16,
+        "partId": 79,
+        "colorId": 2,
+        "part": {
+            "id": 79,
+            "categoryId": 18,
+            "partNum": "41532",
+            "name": "Hinge Cylinder 1 x 3 Locking with 1 Finger and Technic Friction Pin",
+            "url": "https://rebrickable.com/parts/41532/hinge-cylinder-1-x-3-locking-with-1-finger-and-technic-friction-pin/",
+            "pictureUrl": "https://cdn.rebrickable.com/media/parts/elements/4159335.jpg"
+        },
+        "color": {
+            "id": 2,
+            "legoId": 0,
+            "name": "Black",
+            "rgb": "#05131D"
+        },
+        "quantity": 1,
+        "missingTotal": 1,
+        "setNum": "8060-1",
+        "setName": "Typhoon Turbo Sub"
+    },
+    {
+        "id": 664,
+        "setId": 16,
+        "partId": 80,
+        "colorId": 2,
+        "part": {
+            "id": 80,
+            "categoryId": 32,
+            "partNum": "298c02",
+            "name": "Lever Small Base with Black Lever",
+            "url": "https://rebrickable.com/parts/298c02/lever-small-base-with-black-lever/",
+            "pictureUrl": "https://cdn.rebrickable.com/media/parts/elements/73587.jpg"
+        },
+        "color": {
+            "id": 2,
+            "legoId": 0,
+            "name": "Black",
+            "rgb": "#05131D"
+        },
+        "quantity": 1,
+        "missingTotal": 1,
+        "setNum": "8060-1",
+        "setName": "Typhoon Turbo Sub"
+    },
+    {
+        "id": 665,
+        "setId": 16,
+        "partId": 80,
+        "colorId": 2,
+        "part": {
+            "id": 80,
+            "categoryId": 32,
+            "partNum": "298c02",
+            "name": "Lever Small Base with Black Lever",
+            "url": "https://rebrickable.com/parts/298c02/lever-small-base-with-black-lever/",
+            "pictureUrl": "https://cdn.rebrickable.com/media/parts/elements/73587.jpg"
+        },
+        "color": {
+            "id": 2,
+            "legoId": 0,
+            "name": "Black",
+            "rgb": "#05131D"
+        },
+        "quantity": 1,
+        "missingTotal": 1,
+        "setNum": "8060-1",
+        "setName": "Typhoon Turbo Sub"
+    },
+    {
+        "id": 666,
+        "setId": 16,
+        "partId": 81,
+        "colorId": 2,
+        "part": {
+            "id": 81,
+            "categoryId": 9,
+            "partNum": "63868",
+            "name": "Plate Special 1 x 2 with Clip Horizontal on End",
+            "url": "https://rebrickable.com/parts/63868/plate-special-1-x-2-with-clip-horizontal-on-end/",
+            "pictureUrl": "https://cdn.rebrickable.com/media/parts/elements/4535739.jpg"
+        },
+        "color": {
+            "id": 2,
+            "legoId": 0,
+            "name": "Black",
+            "rgb": "#05131D"
+        },
+        "quantity": 2,
+        "missingTotal": 2,
+        "setNum": "8060-1",
+        "setName": "Typhoon Turbo Sub"
+    },
+    {
+        "id": 667,
+        "setId": 16,
+        "partId": 82,
+        "colorId": 2,
+        "part": {
+            "id": 82,
+            "categoryId": 46,
+            "partNum": "3737",
+            "name": "Technic Axle 10",
+            "url": "https://rebrickable.com/parts/3737/technic-axle-10/",
+            "pictureUrl": "https://cdn.rebrickable.com/media/parts/elements/373726.jpg"
+        },
+        "color": {
+            "id": 2,
+            "legoId": 0,
+            "name": "Black",
+            "rgb": "#05131D"
+        },
+        "quantity": 1,
+        "missingTotal": 1,
+        "setNum": "8060-1",
+        "setName": "Typhoon Turbo Sub"
+    },
+    {
+        "id": 668,
+        "setId": 16,
+        "partId": 83,
+        "colorId": 2,
+        "part": {
+            "id": 83,
+            "categoryId": 46,
+            "partNum": "3705",
+            "name": "Technic Axle 4",
+            "url": "https://rebrickable.com/parts/3705/technic-axle-4/",
+            "pictureUrl": "https://cdn.rebrickable.com/media/parts/elements/370526.jpg"
+        },
+        "color": {
+            "id": 2,
+            "legoId": 0,
+            "name": "Black",
+            "rgb": "#05131D"
+        },
+        "quantity": 3,
+        "missingTotal": 3,
+        "setNum": "8060-1",
+        "setName": "Typhoon Turbo Sub"
+    }
+    ]
